@@ -1,0 +1,8 @@
+prefix=/home/hazem/personal_space/Sessions/1st_Session_ROS/task_9.2/catkin_ws/install
+
+Name: chatter_pkg
+Description: Description of chatter_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs
